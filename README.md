@@ -1,3 +1,3 @@
-Hi I'm Teofil Nyirő and I am right now learning basic IT in highshool.
-After that I want to be a full stack software developer, this is one of my biggest
-dream!
+I'm Teofil Nyiro, a CompSci student at the University of Pannonia, Faculty of Information Technology.
+My goal is to be a capable software engeneer that can solve complex real world end theoretical problems in
+IT using mathematics and software developing principles.
